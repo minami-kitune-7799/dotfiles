@@ -11,6 +11,9 @@ brew install zsh
 brew install neovim
 brew install caskroom/cask/visual-studio-code
 
+# Fuzzy finder
+brew install fzf
+
 # Ide
 brew install caskroom/cask/datagrip
 
