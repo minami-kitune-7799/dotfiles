@@ -2,6 +2,7 @@
 
 # Terminal
 brew install caskroom/cask/alacritty
+brew install tmux
 
 # Editor
 brew install neovim
