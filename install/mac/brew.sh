@@ -4,6 +4,9 @@
 brew install caskroom/cask/alacritty
 brew install tmux
 
+# Shell
+brew install zsh
+
 # Editor
 brew install neovim
 brew install caskroom/cask/visual-studio-code

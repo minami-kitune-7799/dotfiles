@@ -3,5 +3,9 @@
 # Tmux
 ln -sfn ~/dotfiles/tmux.conf ~/.tmux.conf
 
+#Zsh
+ln -sfn ~/dotfiles/zshrc ~/.zshrc
+ln -sfn ~/dotfiles/zsh ~/.zsh
+
 # Etc
 ln -sfn ~/dotfiles/config ~/.config
