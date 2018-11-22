@@ -5,3 +5,6 @@
 
 # Install homebrew
 ~/dotfiles/install/mac/install_homebrew.sh
+
+# Install applications with homebrew
+~/dotfiles/install/mac/brew.sh
