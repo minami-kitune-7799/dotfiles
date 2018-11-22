@@ -7,6 +7,9 @@ brew install tmux
 # Editor
 brew install neovim
 
+# Container
+brew install caskroom/cask/docker
+
 # Relational database
 brew install postgresql
 
