@@ -8,6 +8,9 @@ brew install tmux
 brew install neovim
 brew install caskroom/cask/visual-studio-code
 
+# Ide
+brew install caskroom/cask/datagrip
+
 # Container
 brew install caskroom/cask/docker
 
