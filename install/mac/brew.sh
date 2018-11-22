@@ -6,6 +6,7 @@ brew install tmux
 
 # Editor
 brew install neovim
+brew install caskroom/cask/visual-studio-code
 
 # Container
 brew install caskroom/cask/docker
