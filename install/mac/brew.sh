@@ -6,6 +6,7 @@ brew install tmux
 
 # Shell
 brew install zsh
+brew install zplug
 
 # Editor
 brew install neovim
